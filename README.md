@@ -1,6 +1,6 @@
 # Hi!
 
-My name is Uri Refael Baum, and I am looking for a marketing leadership role (Director of Markering, VP Marketring or alike) in a growing startup in Tel Aviv.  
+My name is Uri Refael Baum, and I am looking for a marketing leadership role (Director of Marketing, VP Marketing or alike) in a growing startup in Tel Aviv.  
 
 <img src="profilepic.png"
      alt="Profile image - Uri Refael Baum"
