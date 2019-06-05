@@ -2,8 +2,8 @@
 
 My name is Uri Refael Baum, and I am looking for a marketing leadership role (Director of Markering, VP Marketring or alike) in a growing startup in Tel Aviv.  
 
-<img src="profile.jpg"
-     alt="Profile image - Adam Matan"
+<img src="Uri-Refael-Baum-CV.pdf"
+     alt="Profile image - Uri Refael Baum"
      height="300px" />
 
 # What do I do?
