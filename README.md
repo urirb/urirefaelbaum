@@ -23,8 +23,6 @@ Director of Marketing at [Binaris](https://binaris.com/), Director of Content Ma
 uriref@gmail.com
 
 # Read more
-* [CV](Adam_Matan.pdf) (in Latex!)
-* [Schedule a call or a meeting](https://goo.gl/WVWbCq)
-* [Stack Overflow profile](https://stackoverflow.com/users/51197/adam-matan)
-* [Linkedin profile](https://www.linkedin.com/in/adamatan/)
-* [Public speaking experience](https://adamatan.github.io/cfp/)
+* [CV](Uri-Refael-Baum-CV.pdf)
+* [Linkedin profile](https://www.linkedin.com/in/urirb/)
+
